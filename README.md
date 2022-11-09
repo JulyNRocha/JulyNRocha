@@ -21,7 +21,7 @@
 
 
 
-## :Pencil: Contact
+## :love_letter: Contact
 [![Twitter Badge](https://img.shields.io/badge/@BubbleGumJuly-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BubbleGumJuly) [![Linkedin Badge](https://img.shields.io/badge/Julyane_Rocha-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julyane-rocha-32991a181) [![ArtStation Badge](https://img.shields.io/badge/July_Rocha-222222.svg?style=for-the-badge&logo=ArtStation&logoColor=white)](https://www.artstation.com/julyrocha6) [![Gmail Badge](https://img.shields.io/badge/nrochajuly@gmail.com-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nrocha@gmail.com)
 
 ![](https://i.imgur.com/5Fgm6ZP.gif)
