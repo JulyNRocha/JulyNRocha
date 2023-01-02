@@ -2,7 +2,7 @@
 
 ## :cake: About Me
 - I am Learing Game Development :video_game: 
-- I am also Learning 3D Modeling :art: 
+- I am also Learning 3D Modeling and pixelart :art: 
 - Love : Cats, Cartoons, Games and Drawing :heart:
 - Gender: She/Her/Female :female_sign: 
 - Work: -----
