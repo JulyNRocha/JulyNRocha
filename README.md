@@ -19,7 +19,7 @@
                                  
 - 🌱 And These are the tools or skills I wanna learn:
 
-![Unreal Badge](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white) ![Blender Badge](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white) 
+![Unreal Badge](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white) ![Blender Badge](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 
 
